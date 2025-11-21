@@ -12,10 +12,17 @@ The circuit employs an active low-pass filter combined with amplification to pro
 
 <br>
 <div align="center">
+  <a href="https://load-cell-transducer-signal-conditioning-circuit.streamlit.app/">
+    <img src="https://img.shields.io/badge/Try-Interactive_Simulator-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App" style="height: 50px;"/>
+  </a>
+</div>
+<br>
+<div align="center">
   <a href="https://codeload.github.com/TendoPain18/load-cell-transducer-signal-conditioning-circuit/legacy.zip/main">
     <img src="https://img.shields.io/badge/Download-Files-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
   </a>
 </div>
+
 
 ## 🎯 Project Objectives
 
@@ -144,6 +151,18 @@ Power Supply: ±5V to ±15V
 - Performed Fourier analysis to convert time domain to frequency domain
 - Identified noise components in higher frequencies
 - Determined optimal cutoff frequency: **25 rad/sec**
+
+**Interactive Simulator:**
+
+Try our [**Interactive Filter Simulator**](https://load-cell-transducer-signal-conditioning-circuit.streamlit.app/) to visualize how different cutoff frequencies affect the signal output in real-time!
+
+[![Streamlit App](https://img.shields.io/badge/Launch-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://load-cell-transducer-signal-conditioning-circuit.streamlit.app/)
+
+**Features:**
+- Upload custom CSV files or use default signal data
+- Adjust cutoff frequency (Wc) with interactive slider
+- Real-time visualization of input vs filtered output
+- Configurable Wc range for detailed analysis
 
 ### Stage 3: LTSpice Simulation
 
@@ -353,6 +372,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Digilent for Analog Discovery 2 and Waveforms software
 - Analog Devices for LTSpice software
 - Arduino community
+- Streamlit for interactive web app framework
 
 <br>
 <div align="center">
