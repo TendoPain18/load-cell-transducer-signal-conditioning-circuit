@@ -201,18 +201,18 @@ Try our [**Interactive Filter Simulator**](https://load-cell-transducer-signal-c
 **Physical Circuit:**
 - Designed initial layout in TinkerCAD
 - Implemented on breadboard with clean wiring
-<img src="images/tinkercad.png" alt="Hardware Circuit 1" width="49%"/>
+<img src="images/tinkercad.png" alt="Hardware Circuit 1" width="99%"/>
 
 **Hardware Photos:**
 
 <div align="center">
-  <img src="images/hardware_3.png" alt="Hardware Circuit 1" width="49%"/>
-  <img src="images/hardware_4.png" alt="Hardware Circuit 2" width="49%"/>
+  <img src="images/hardware_3.png" alt="Hardware Circuit 1" width="75.5%"/>
+  <img src="images/hardware_1.png" alt="Hardware Circuit 2" width="23.89%"/>
 </div>
 
 <div align="center">
-  <img src="images/hardware_1.png" alt="Hardware Circuit 3" width="49%"/>
-  <img src="images/hardware_2.png" alt="Hardware Circuit 4" width="49%"/>
+  <img src="images/hardware_4.png" alt="Hardware Circuit 3" width="75.5%"/>
+  <img src="images/hardware_2.png" alt="Hardware Circuit 4" width="23.89%"/>
 </div>
 
 *Complete hardware implementation on breadboard*
