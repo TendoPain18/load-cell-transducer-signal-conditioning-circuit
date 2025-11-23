@@ -355,13 +355,6 @@ Contributions are welcome! Feel free to:
 - Enhance Arduino code
 - Share calibration techniques
 
-## 👥 Project Team
-
-- **Amr Ashraf**
-- **Marwan Ahmed**
-- **Khaled Ashraf**
-- **Ahmed Abdel Sattar**
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
